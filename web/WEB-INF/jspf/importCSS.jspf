@@ -1,0 +1,20 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<!-- CSS DATATABLE MATERIAL-DESING 
+<link href="<%= request.getContextPath()%>/css/material-design-lite.css" rel="stylesheet" type="text/css"/>
+<link href="<%= request.getContextPath()%>/css/datatables.material.css" rel="stylesheet" type="text/css"/>
+<link href="<%= request.getContextPath()%>/css/fonts.css" rel="stylesheet" type="text/css"/>-->
+
+<link href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/>
+<link type="text/css" rel="stylesheet" href="https://cdn.datatables.net/select/1.2.1/css/select.dataTables.min.css"/>
+
+<!-- CSS MATERIALIZE -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="<%= request.getContextPath()%>/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+<link href="<%= request.getContextPath()%>/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+<link rel="stylesheet" href="<%= request.getContextPath()%>/css/estilos.css">
+<link rel="stylesheet" type="text/css" href="<%= request.getContextPath()%>/js/dist/sweetalert.css">
+
+

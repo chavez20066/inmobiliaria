@@ -1,0 +1,16 @@
+SMAP
+TiposEgresos_jsp.java
+JSP
+*S JSP
+*F
++ 0 TiposEgresos.jsp
+templates/TiposEgresos.jsp
+*L
+1,89:44
+90:133,3
+91,22:136
+113:158,3
+114,56:161
+170:217,3
+171,91:220
+*E

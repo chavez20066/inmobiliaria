@@ -1,0 +1,15 @@
+html,
+body { 
+  
+}
+ 
+body {
+  display: table;
+  width: 100%;
+}
+.clase-general{
+  display: table-row;
+}
+ footer {
+   background: red; height: 100px;
+ }

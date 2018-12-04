@@ -1,0 +1,27 @@
+.fondo{
+    background: rgba(51, 122, 183, 0.8);
+    color: #ffffff;
+}
+
+.linea-izquierda{
+    border-left: solid 3px #d9534f;
+}
+
+.ocultar{
+    display: none;
+}
+#dt_candidato_wrapper select{
+    display: inherit;
+}
+#dt_asesor_wrapper select{
+    display: inherit;
+}
+#dt_visitas_wrapper2 select{
+    display: inherit;
+}
+.espacioFooter{
+    padding-top: 10px;
+}
+.dataTable select{
+    display: inherit;
+}

@@ -1,0 +1,18 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div>
+
+    <footer class="page-footer bottom-sheet center-align blue darken-2">
+        <div class="container">
+            <div class="row">
+                <h5 style="color: white;"><strong>CENTRO DE INFORMACIÓN & BIBLIOTECAS</strong></h5>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container">
+                © 2016 Copyright
+            </div>
+        </div>
+    </footer>
+
+</div>
